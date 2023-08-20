@@ -3,6 +3,7 @@
     "name": "my-app1",
     "slug": "my-app1",
     "version": "1.0.0",
+    "plugins": ["expo-camera"],
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
